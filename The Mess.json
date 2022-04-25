@@ -1,0 +1,29 @@
+{
+  "title": "The Mess",
+  "description": "",
+  "artist": "Incase",
+  "author": "Incase",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1650920225",
+      "groups": {
+        "": [
+          "https://imgur.com/a/YfRJFGI"
+        ]
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1650920244",
+      "groups": {
+        "": [
+          "https://imgur.com/a/aSg5HTo"
+        ]
+      }
+    }
+  }
+}
